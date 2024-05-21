@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Trushti.
+<h1> Hi, I’m @Trushti.</h1>
+
+
 - 👀 I’m helping in business advancement by turning my knowledge into actions.
 - 🌱 I’m currently learning data analytics techniques.
 - 💞️ I’m looking to collaborate for leraning and working opportunities.
