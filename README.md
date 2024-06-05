@@ -1,4 +1,5 @@
-<h1> Hi, I’m @Trushti.</h1> <br/><a href="https://github.com/TrushtiBZ">Business Analyst</a>, Data Analyst <a href="https://www.linkedin.com/in/trushti-patel/"> 
+<h1> Hi, I’m @Trushti.</h1> <br/>
+A data and business analyst with a passion for turning data into impactful stories and strategic decisions. My expertise lies in SQL, data cleaning and analysis, and business process improvement. At my internship with a Interact Health Pro, I contribute to strategic planning and data-driven decision-making. I'm eager to collaborate and contribute to data and business analysis initiatives. Let's connect!
 
   <h2>👨‍💻 Data Analyst Projects:</h2>
 
@@ -13,22 +14,7 @@
   - [Christmas & Festive Sales Data Report](https://github.com/TrushtiBZ/Data-Reporting-and-Visualization/blob/main/Christmas%20Sales%20Data_Trushti%20Patel.pbix)
 
 
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/trushti-patel/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-- 👀 I’m helping in business advancement by turning my knowledge into actions.
-- 🌱 I’m currently learning data analytics techniques.
-- 💞️ I’m looking to collaborate for leraning and working opportunities.
+<h3> 🤳 Connect with me:</h3> <img align="left" alt="TrushtiPatel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/trushti-patel/
 
 <!---
 TrushtiBZ/TrushtiBZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
