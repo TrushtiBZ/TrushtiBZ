@@ -4,6 +4,14 @@
 
 - <b>Student Enrollment Dashboad</b>
   - [Praciting SQL & MS PowerBI](https://github.com/TrushtiBZ/Projects)
+- <b>World Layoffs</b>
+  - [Data Cleaing](https://github.com/TrushtiBZ/World-Layoffs---Data-Cleaning)
+  - [Exploratory Data Analysis](https://github.com/TrushtiBZ/Exploratory-Data-Analysis---World-Layoffs)
+- <b>Data Reporting and Visualization</b>
+  - [Tech Support Data Analysis Report](https://github.com/TrushtiBZ/Data-Reporting-and-Visualization/blob/main/Tech%20Support%20Analysis%20Report%20-%20Trushti%20Patel.pbix)
+  - [Udemy Data Analysis](https://github.com/TrushtiBZ/Data-Reporting-and-Visualization/blob/main/Udemy%20Data%20Analysis.pbix)
+  - [Christmas & Festive Sales Data Report](https://github.com/TrushtiBZ/Data-Reporting-and-Visualization/blob/main/Christmas%20Sales%20Data_Trushti%20Patel.pbix)
+
 
 
 
