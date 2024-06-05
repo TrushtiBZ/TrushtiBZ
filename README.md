@@ -4,7 +4,7 @@ A data and business analyst with a passion for turning data into impactful stori
   <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Student Enrollment Dashboad</b>
-  - [Praciting SQL & MS PowerBI](https://github.com/TrushtiBZ/Projects)
+  - [Waterloo University Student Enrollment Trends](https://github.com/TrushtiBZ/Waterloo-Enrollment-Dashboard)
 - <b>World Layoffs</b>
   - [Data Cleaing](https://github.com/TrushtiBZ/World-Layoffs---Data-Cleaning)
   - [Exploratory Data Analysis](https://github.com/TrushtiBZ/Exploratory-Data-Analysis---World-Layoffs)
