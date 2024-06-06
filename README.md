@@ -1,7 +1,7 @@
 <h1> Hi, I’m @Trushti.</h1> <br/>
 A data and business analyst with a passion for turning data into impactful stories and strategic decisions. My expertise lies in SQL, data cleaning and analysis, and business process improvement. At my internship with a Interact Health Pro, I contribute to strategic planning and data-driven decision-making. I'm eager to collaborate and contribute to data and business analysis initiatives. Let's connect!
 
-  <h2>👨‍💻 Data Analyst Projects:</h2>
+  <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Student Enrollment Dashboad</b>
   - [Waterloo University Student Enrollment Trends](https://github.com/TrushtiBZ/Waterloo-Enrollment-Dashboard)
@@ -13,6 +13,10 @@ A data and business analyst with a passion for turning data into impactful stori
   - [Udemy Data Analysis](https://github.com/TrushtiBZ/Data-Reporting-and-Visualization/blob/main/Udemy%20Data%20Analysis.pbix)
   - [Christmas & Festive Sales Data Report](https://github.com/TrushtiBZ/Data-Reporting-and-Visualization/blob/main/Christmas%20Sales%20Data_Trushti%20Patel.pbix)
 
+ <h2>👨‍💻 Business Analysis Projects:</h2>
+
+- <b> Maryland Insurance - Business Problem Solving</b>
+  - [Business Problem Solving](https://github.com/TrushtiBZ/Business-Problem-Solving)
 
 <h3> 🤳 Connect with me:</h3> <img align="left" alt="TrushtiPatel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/trushti-patel/
 
