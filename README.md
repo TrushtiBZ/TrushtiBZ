@@ -6,7 +6,7 @@ A data and business analyst with a passion for turning data into impactful stori
 - <b>Student Enrollment Dashboad</b>
   - [Waterloo University Student Enrollment Trends](https://github.com/TrushtiBZ/Waterloo-Enrollment-Dashboard)
 - <b>World Layoffs</b>
-  - [Data Cleaing](https://github.com/TrushtiBZ/World-Layoffs---Data-Cleaning)
+  - [Data Clenaing](https://github.com/TrushtiBZ/World-Layoffs---Data-Cleaning)
   - [Exploratory Data Analysis](https://github.com/TrushtiBZ/Exploratory-Data-Analysis---World-Layoffs)
 - <b>Data Reporting and Visualization</b>
   - [Tech Support Data Analysis Report](https://github.com/TrushtiBZ/Data-Reporting-and-Visualization/blob/main/Tech%20Support%20Analysis%20Report%20-%20Trushti%20Patel.pbix)
