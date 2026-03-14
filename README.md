@@ -17,9 +17,8 @@ An analyst with a passion for turning data into impactful stories and strategic 
 
 - <b> Maryland Insurance - Business Problem Solving</b>
   - [Business Problem Solving](https://github.com/TrushtiBZ/Business-Problem-Solving)
-
 - <b> Coffee Bean Processing - Value Stream Mapping (Lean)</b>
-  - [Value Stream Mapping](https://github.com/TrushtiBZ/Business-Problem-Solving)
+  - [Value Stream Mapping](https://github.com/TrushtiBZ/Value-Stream-Mapping-Coffee-Beans-Processing)
 
 <h3> 🤳 Connect with me:</h3> <img align="left" alt="TrushtiPatel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/trushti-patel/
 
